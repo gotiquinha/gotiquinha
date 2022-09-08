@@ -1,4 +1,4 @@
-## Futura engenheira de Software  📚  Eu sou a Isabela!
+## Future Software engineer  📚  I'm Isabela!
 
 
 
