@@ -9,13 +9,13 @@ Meu nome é Isabela e sou formada em Análise e Desenvolvimento de Sistemas. Atu
 
 ## 🔭 Projetos:
 - **csv-to-sqlite-analytics**: Um script Python para carregar dados de produtos de um arquivo CSV para um banco de dados SQLite em memória. O script realiza várias consultas, como encontrar as datas de compra mais recente e mais antiga, calcular o valor total de frete e agrupar os valores de frete por dispositivo.
-[Link para o projeto]([https://github.com/gotiquinha/analise-avaliacoes-filmes](https://github.com/gotiquinha/csv-to-sqlite-analytics))
+[Link para o projeto]([https://github.com/gotiquinha/analise-avaliacoes-filmes](https://github.com/gotiquinha/csv-to-sqlite-analytics)
   
 - **analise-avaliacoes-filmes**: Análise exploratória de avaliações de filmes utilizando as bibliotecas pandas e seaborn em Python. Este repositório abrange desde a leitura dos dados até a visualização e obtenção de insights sobre as avaliações e detalhes dos filmes.
 [Link para o projeto](https://github.com/gotiquinha/analise-avaliacoes-filmes)
 
 ## 📫 Como entrar em contato:
-- ([Meu perfil do LinkedIn](https://www.linkedin.com/in/isabela-neves-315a4a193/))
+- [Meu perfil do LinkedIn](https://www.linkedin.com/in/isabela-neves-315a4a193/)
 - Email: ineves.isabela@gmail.com
 
 ## 📚 Algo mais sobre mim:
