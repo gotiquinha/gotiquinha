@@ -19,7 +19,7 @@ Meu nome é Isabela e sou formada em Análise e Desenvolvimento de Sistemas. Atu
 - Email: ineves.isabela@gmail.com
 
 ## 📚 Algo mais sobre mim:
-Sou uma grande fã de Naruto e adoro, livros de romance, musica popm rock, bossa-nova e mpb. Em meu tempo livre, gosto de caminhar ruas arborizadas e na orla da praia, também gosto de cozinhar, principalmente fazer doces.
+Sou uma grande fã de Naruto e adoro livros de romance, musica pop, rock, bossa-nova e mpb. Em meu tempo livre, gosto de caminhar em ruas arborizadas e na orla da praia, também gosto de cozinhar, principalmente fazer doces. em
 
 
 
