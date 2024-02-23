@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é Isabela e sou formada em Análise e Desenvolvimento de Sistemas. Atualmente, sou estagiária em Desenvolvimento de Software, com uma paixão crescente pelas áreas de back-end, análise de dados e desenvolvimento de software.
+Meu nome é Isabela e sou formada em Análise e Desenvolvimento de Sistemas. Atualmente, sou Assistente em Desenvolvimento de Software, com uma paixão crescente pelas áreas de back-end, análise de dados e desenvolvimento de software.
 
 ## 🌱 O que estou aprendendo agora:
 - Aprofundando meus conhecimentos em análise de dados e suas aplicações práticas.
