@@ -8,11 +8,11 @@ Meu nome é Isabela e sou formada em Análise e Desenvolvimento de Sistemas. Min
 - Aprimorando continuamente minhas habilidades em Python, SQL, APIs e, ocasionais, Next.js e Tailwind.
 
 ## 🔭 Projetos:
-- **csv-to-sqlite-analytics**: Um script Python para carregar dados de produtos de um arquivo CSV para um banco de dados SQLite em memória. O script realiza várias consultas, como encontrar as datas de compra mais recente e mais antiga, calcular o valor total de frete e agrupar os valores de frete por dispositivo.
-[Link para o projeto](https://github.com/gotiquinha/csv-to-sqlite-analytics)
+- **Inspiração Pinterest**: Uma interface inspirada no Pinterest, desenvolvida com HTML e CSS, demonstrando habilidades em design responsivo e layout de grade para criar uma experiência visual atraente e interativa.
+[Link para o projeto](https://github.com/gotiquinha/inpiracao-pinterest)
   
-- **analise-avaliacoes-filmes**: Análise exploratória de avaliações de filmes utilizando as bibliotecas pandas e seaborn em Python. Este repositório abrange desde a leitura dos dados até a visualização e obtenção de insights sobre as avaliações e detalhes dos filmes.
-[Link para o projeto](https://github.com/gotiquinha/analise-avaliacoes-filmes)
+- **Análise de Dados: Deputados Federais**: Um projeto que realiza uma análise dos dados dos deputados federais brasileiros utilizando a API de Dados Abertos da Câmara dos Deputados. O projeto explora informações relevantes sobre nossos representantes no legislativo federal.
+[Link para o projeto](https://github.com/gotiquinha/analise-deputados) 
 
 ## 📫 Como entrar em contato:
 - [Meu perfil do LinkedIn](https://www.linkedin.com/in/isabela-neves-315a4a193/)
