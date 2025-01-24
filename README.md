@@ -12,7 +12,7 @@ Meu nome é Isabela e sou formada em Análise e Desenvolvimento de Sistemas. Min
 [Link para o projeto](https://github.com/gotiquinha/inpiracao-pinterest)
   
 - **Análise de Dados: Deputados Federais**: Um projeto que realiza uma análise dos dados dos deputados federais brasileiros utilizando a API de Dados Abertos da Câmara dos Deputados. O projeto explora informações relevantes sobre nossos representantes no legislativo federal.
-[Link para o projeto](https://github.com/gotiquinha/analise-deputados) 
+[Link para o projeto](https://github.com/gotiquinha/analisando-deputados) 
 
 ## 📫 Como entrar em contato:
 - [Meu perfil do LinkedIn](https://www.linkedin.com/in/isabela-neves-315a4a193/)
