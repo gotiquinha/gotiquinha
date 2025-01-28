@@ -19,7 +19,7 @@ Meu nome é Isabela e sou formada em Análise e Desenvolvimento de Sistemas. Min
 - Email: ineves.isabela@gmail.com
 
 ## 📚 Algo mais sobre mim:
-Sou uma grande de cultura pop e jogos de organização. Em meu tempo livre, gosto de caminhar em ruas arborizadas e na orla da praia, também gosto de cozinharsobremessas e explorar IA'S.
+Sou uma grande de fã cultura pop, comida coreana e jogos de organização. Em meu tempo livre, gosto de caminhar em ruas arborizadas e na orla da praia, também gosto de cozinhar sobremessas e explorar IA'S.
 
 
 
