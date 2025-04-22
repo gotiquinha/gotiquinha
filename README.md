@@ -35,3 +35,5 @@ Sou uma grande de fã cultura pop, comida coreana e jogos de organização. Em m
 
 
 ![pngegg](https://user-images.githubusercontent.com/93232499/189041375-c3f9d2d8-0873-44f6-a626-420dd9c55f07.png) 
+![trabalh-eu-e-meus-gatos](https://github.com/user-attachments/assets/f5e90788-53d6-44fe-aebb-7ff52b5937cd)
+
