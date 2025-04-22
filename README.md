@@ -29,9 +29,6 @@ Meu nome é Isabela e sou formada em Análise e Desenvolvimento de Sistemas. Ten
 ## 📚 Algo mais sobre mim:
 Sou uma grande fã de cultura pop, comida coreana e jogos de organização. Em meu tempo livre, gosto de caminhar em ruas arborizadas e na orla da praia, cozinhar sobremesas e explorar IA's. Também venho me desenvolvendo no uso de ferramentas como Power BI, Streamlit, Metabase e práticas ágeis no dia a dia.
 
-## 📚 Algo mais sobre mim:
-Sou uma grande de fã cultura pop, comida coreana e jogos de organização. Em meu tempo livre, gosto de caminhar em ruas arborizadas e na orla da praia, também gosto de cozinhar sobremessas e explorar IA'S.
-
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f5e90788-53d6-44fe-aebb-7ff52b5937cd" alt="trabalh-eu-e-meus-gatos" width="600">
