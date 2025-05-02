@@ -27,7 +27,7 @@ Meu nome é Isabela e sou formada em Análise e Desenvolvimento de Sistemas. Ten
 - Email: ineves.isabela@gmail.com
 
 ## 📚 Algo mais sobre mim:
-Sou uma grande fã de cultura pop, comida coreana e jogos de organização. Em meu tempo livre, gosto de caminhar em ruas arborizadas e na orla da praia, cozinhar sobremesas e explorar IA's. Também venho me desenvolvendo no uso de ferramentas como Power BI, Streamlit, Metabase e práticas ágeis no dia a dia.
+Sou uma grande fã de cultura pop, comida coreana e jogos de organização. Em meu tempo livre, gosto de caminhar em ruas arborizadas e na orla da praia, cozinhar sobremesas e explorar IA's. Também venho me desenvolvendo no uso de ferramentas como Power BI, Streamlit, Metabase e práticas ágeis no dia a dia.  
 
 
 <p align="center">
